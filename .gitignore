@@ -1,0 +1,6 @@
+/*
+!/.vim
+/.vim/bundle/*
+!/.profile
+!/.vimrc
+!/.gitignore
